@@ -52,10 +52,10 @@ whether it's a new framework, a hardware project, or how to direct a short film.
 
 | Project | Description | Stack |
 |-----------|---------------|---------|
-| 🎓 **GradeHub** | Student grade management system | Laravel · React · TypeScript |
-| 🛒 **RecipesPOS** | POS system with product & transaction management | Java Swing |
-| 🗺️ **AR Campus Nav** | Augmented reality campus navigation app | Mobile · AR |
-| 🎬 **Confessions** | Filipino romcom short film *(directed by me)* | Editing and Scripts! |
+| **GradeHub** | Student grade management system | Laravel · React · TypeScript |
+| **RecipesPOS** | POS system with product & transaction management | Java Swing |
+| **AR Campus Nav** | Augmented reality campus navigation app | Mobile · AR |
+| **SHORT FILM (HI, LIKE YOU)** | Filipino romcom short film *(directed by me)* | Editing and Scripts! |
 
 ---
 
