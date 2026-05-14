@@ -4,7 +4,7 @@
 
 Based in Bansalan, Philippines &nbsp;|&nbsp; Passionate about building useful things
 
-*BSIT Student | Web Developer | Java Dev | Film Director | AR Explorer*
+*BSIT Student | Developer | Programmer | Editor | Explorer*
 
 Welcome to my GitHub! I'm a CS student who loves building web apps and tools from scratch.
 I enjoy working on both frontend and backend, and I'm always learning something new —
