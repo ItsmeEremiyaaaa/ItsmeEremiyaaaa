@@ -107,7 +107,7 @@ me.say_hi()
 
 ---
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hi%20I'm%20Jeremiah!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Developer%20%7C%20Film%20Director&descAlignY=55&descAlign=50)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
