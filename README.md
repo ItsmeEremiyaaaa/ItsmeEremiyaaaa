@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Jeremiah! 👋
+# Hi there, I'm Jeremiah! 
 
-🌏 Based in Bansalan, Philippines &nbsp;|&nbsp; 💡 Passionate about building useful things
+Based in Bansalan, Philippines &nbsp;|&nbsp; Passionate about building useful things
 
 *BSIT Student | Web Developer | Java Dev | Film Director | AR Explorer*
 
@@ -14,7 +14,7 @@ whether it's a new framework, a hardware project, or how to direct a short film.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <div align="center">
 
@@ -38,7 +38,7 @@ whether it's a new framework, a hardware project, or how to direct a short film.
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 
@@ -48,18 +48,18 @@ whether it's a new framework, a hardware project, or how to direct a short film.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| 🗂️ Project | 📝 Description | ⚙️ Stack |
+| Project | Description | Stack |
 |-----------|---------------|---------|
 | 🎓 **GradeHub** | Student grade management system | Laravel · React · TypeScript |
 | 🛒 **RecipesPOS** | POS system with product & transaction management | Java Swing |
 | 🗺️ **AR Campus Nav** | Augmented reality campus navigation app | Mobile · AR |
-| 🎬 **Confessions** | Filipino romcom short film *(directed by me)* | — |
+| 🎬 **Confessions** | Filipino romcom short film *(directed by me)* | Editing and Scripts! |
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing new ideas.
 Feel free to reach out!
@@ -73,9 +73,9 @@ Feel free to reach out!
 
 ---
 
-### 🎉 Fun Fact
+### Fun Fact
 
-I once built a hardware gas detector with an Arduino at 2AM and it actually worked. 🤯
+I once built a hardware gas detector with an Arduino at 2AM and it actually worked. 
 
 ```python
 #!/usr/bin/env python3
@@ -86,12 +86,12 @@ class BsitStudent:
         self.role       = "BSIT Student | Developer | Film Director"
         self.school     = "St. Mary's College of Bansalan"
         self.stack      = ["Laravel", "React", "TypeScript", "Java", "PHP"]
-        self.currently  = "Building GradeHub 🎓"
+        self.currently  = "Building GradeHub "
         self.learning   = ["AR Development", "System Integration", "Computer Graphics"]
-        self.fun_fact   = "I write code AND direct short films 🎬"
+        self.fun_fact   = "I write code AND direct short films "
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool. 🚀")
+        print("Thanks for stopping by! Let's build something cool. ")
 
 me = BsitStudent()
 me.say_hi()
@@ -103,7 +103,7 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -117,7 +117,7 @@ me.say_hi()
 
 <div align="center">
 
-*Currently in my coding arc 🔥*
+*Currently in my coding arc *
 
 ---
 
