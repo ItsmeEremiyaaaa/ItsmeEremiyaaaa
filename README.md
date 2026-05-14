@@ -107,7 +107,7 @@ me.say_hi()
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=BSIT+Student+%40+SMCB;Laravel+%2B+React+Developer;Java+%26+Arduino+Enthusiast;Film+Director+%F0%9F%8E%AC;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ---
 
