@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Jeremiah! 👋
+# Hi there, I'm Jeremiah!!
 
-🌏 Based in Bansalan, Philippines &nbsp;|&nbsp; 💡 Passionate about building useful things
+Based in Bansalan, Philippines &nbsp;|&nbsp; Passionate about building useful things
 
 *BSIT Student | Web Developer | Java Dev | Film Director | AR Explorer*
 
@@ -40,29 +40,32 @@ whether it's a new framework, a hardware project, or how to direct a short film.
 
 ### 🚀 Featured Projects
 
-| 🗂️ Project | 📝 Description | ⚙️ Stack |
+| Project | Description | Stack |
 |-----------|---------------|---------|
-| 🎓 **GradeHub** | Student grade management system | Laravel · React · TypeScript |
-| 🛒 **RecipesPOS** | POS system with product & transaction management | Java Swing |
-| 🗺️ **AR Campus Nav** | Augmented reality campus navigation app | Mobile · AR |
-| 🎬 **Confessions** | Filipino romcom short film *(directed by me)* | — |
+| **GradeHub** | Student grade management system | Laravel · React · TypeScript |
+| **RecipesPOS** | POS system with product & transaction management | Java Swing |
+| **AR Campus Nav** | Augmented reality campus navigation app | Mobile · AR |
+| **Confessions** | Filipino romcom short film *(directed by me)* | — |
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing new ideas.
 Feel free to reach out!
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeremi.ya/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erimiya19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-escubido/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsmeEremiyaaaa)
 
 ---
 
-### 🎉 Fun Fact
+### Fun Fact
 
-I once built a hardware gas detector with an Arduino at 2AM and it actually worked.😂
+I once built a hardware gas detector with an Arduino at 2AM and it actually worked. 🤯
 
 ```python
 #!/usr/bin/env python3
@@ -75,10 +78,10 @@ class BsitStudent:
         self.stack      = ["Laravel", "React", "TypeScript", "Java", "PHP"]
         self.currently  = "Building GradeHub 🎓"
         self.learning   = ["AR Development", "System Integration", "Computer Graphics"]
-        self.fun_fact   = "I write code AND direct short films 🎬"
+        self.fun_fact   = "I write code AND direct short films "
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool. 🚀")
+        print("Thanks for stopping by! Let's build something cool. ")
 
 me = BsitStudent()
 me.say_hi()
@@ -86,7 +89,7 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -100,6 +103,16 @@ me.say_hi()
 
 <div align="center">
 
-*Currently in my coding arc 🔥*
+*Currently in my coding arc *
+
+---
+
+![Snake animation](https://github.com/ItsmeEremiyaaaa/ItsmeEremiyaaaa/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+> *"The best error message is the one that never shows up."* — Thomas Fuchs
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=ItsmeEremiyaaaa&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
