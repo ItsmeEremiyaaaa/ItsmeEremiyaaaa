@@ -86,12 +86,12 @@ class BsitStudent:
         self.role       = "BSIT Student | Developer | Film Director"
         self.school     = "St. Mary's College of Bansalan"
         self.stack      = ["Laravel", "React", "TypeScript", "Java", "PHP"]
-        self.currently  = "Building GradeHub"
+        self.currently  = "Building GradeHub "
         self.learning   = ["AR Development", "System Integration", "Computer Graphics"]
-        self.fun_fact   = "I write code AND direct short films"
+        self.fun_fact   = "I write code AND direct short films "
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool.")
+        print("Thanks for stopping by! Let's build something cool. ")
 
 me = BsitStudent()
 me.say_hi()
@@ -108,8 +108,8 @@ me.say_hi()
 <div align="center">
 
 ![Jeremiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsmeEremiyaaaa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsmeEremiyaaaa&theme=tokyo-night&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeEremiyaaaa&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ItsmeEremiyaaaa&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -117,7 +117,7 @@ me.say_hi()
 
 <div align="center">
 
-*Currently in my coding arc*
+*Currently in my coding arc *
 
 ---
 
