@@ -18,7 +18,21 @@ whether it's a new framework, a hardware project, or how to direct a short film.
 
 <div align="center">
 
-![Laravel](https://skillicons.dev/icons?i=laravel,react,ts,php,mysql,java,arduino,git,vscode,figma)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/downloads/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/download/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/download)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://code.visualstudio.com/docs/languages/cpp)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/downloads)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/download)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/docs)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/en/software)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/downloads)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/download)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/downloads/)
+[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/front/main/download/)
 
 </div>
 
@@ -48,7 +62,7 @@ Feel free to reach out!
 
 ### 🎉 Fun Fact
 
-I once built a hardware gas detector with an Arduino at 2AM and it actually worked. 🤯
+I once built a hardware gas detector with an Arduino at 2AM and it actually worked.😂
 
 ```python
 #!/usr/bin/env python3
