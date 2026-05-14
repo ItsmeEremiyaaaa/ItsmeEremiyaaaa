@@ -107,7 +107,7 @@ me.say_hi()
 
 ---
 
-![Snake animation](https://github.com/ItsmeEremiyaaaa/ItsmeEremiyaaaa/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
