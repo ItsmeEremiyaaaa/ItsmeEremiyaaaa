@@ -7,7 +7,7 @@ Based in Bansalan, Philippines &nbsp;|&nbsp; Passionate about building useful th
 *BSIT Student | Developer | Programmer | Editor | Explorer*
 
 Welcome to my GitHub! I'm a IT student who loves building web apps and tools from scratch.
-I enjoy working on both frontend and backend, and I'm always learning something new —
+I enjoy working on both frontend and backend, and I'm always learning something new 
 whether it's a new framework, a hardware project, or how to edit things. 
 
 </div>
