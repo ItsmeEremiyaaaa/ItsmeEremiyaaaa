@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Jeremiah!!
+# Hi there, I'm Jeremiah! 👋
 
-Based in Bansalan, Philippines &nbsp;|&nbsp; Passionate about building useful things
+🌏 Based in Bansalan, Philippines &nbsp;|&nbsp; 💡 Passionate about building useful things
 
 *BSIT Student | Web Developer | Java Dev | Film Director | AR Explorer*
 
 Welcome to my GitHub! I'm a CS student who loves building web apps and tools from scratch.
-I enjoy working on both frontend and backend, and I'm always learning something new,
-whether it's a new framework, a hardware project, or how to direct a short film. 
+I enjoy working on both frontend and backend, and I'm always learning something new —
+whether it's a new framework, a hardware project, or how to direct a short film. 🎬
 
 </div>
 
@@ -38,18 +38,28 @@ whether it's a new framework, a hardware project, or how to direct a short film.
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 GitHub Trophies
 
-| Project | Description | Stack |
-|-----------|---------------|---------|
-| **GradeHub** | Student grade management system | Laravel · React · TypeScript |
-| **RecipesPOS** | POS system with product & transaction management | Java Swing |
-| **AR Campus Nav** | Augmented reality campus navigation app | Mobile · AR |
-| **Confessions** | Filipino romcom short film *(directed by me)* | — |
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ItsmeEremiyaaaa&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
 
 ---
 
-### Let's Connect!
+### 🚀 Featured Projects
+
+| 🗂️ Project | 📝 Description | ⚙️ Stack |
+|-----------|---------------|---------|
+| 🎓 **GradeHub** | Student grade management system | Laravel · React · TypeScript |
+| 🛒 **RecipesPOS** | POS system with product & transaction management | Java Swing |
+| 🗺️ **AR Campus Nav** | Augmented reality campus navigation app | Mobile · AR |
+| 🎬 **Confessions** | Filipino romcom short film *(directed by me)* | — |
+
+---
+
+### 🤝 Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing new ideas.
 Feel free to reach out!
@@ -63,7 +73,7 @@ Feel free to reach out!
 
 ---
 
-### Fun Fact
+### 🎉 Fun Fact
 
 I once built a hardware gas detector with an Arduino at 2AM and it actually worked. 🤯
 
@@ -78,10 +88,10 @@ class BsitStudent:
         self.stack      = ["Laravel", "React", "TypeScript", "Java", "PHP"]
         self.currently  = "Building GradeHub 🎓"
         self.learning   = ["AR Development", "System Integration", "Computer Graphics"]
-        self.fun_fact   = "I write code AND direct short films "
+        self.fun_fact   = "I write code AND direct short films 🎬"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool. ")
+        print("Thanks for stopping by! Let's build something cool. 🚀")
 
 me = BsitStudent()
 me.say_hi()
@@ -89,7 +99,11 @@ me.say_hi()
 
 ---
 
-### GitHub Stats
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -103,11 +117,7 @@ me.say_hi()
 
 <div align="center">
 
-*Currently in my coding arc *
-
----
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+*Currently in my coding arc 🔥*
 
 ---
 
