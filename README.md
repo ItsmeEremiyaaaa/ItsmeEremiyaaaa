@@ -111,7 +111,7 @@ me.say_hi()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeEremiyaaaa&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ItsmeEremiyaaaa&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsmeEremiyaaaa&theme=tokyonight&hide_border=true)
 
 </div>
 
