@@ -107,9 +107,9 @@ me.say_hi()
 
 <div align="center">
 
-![Jeremiah's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ItsmeEremiyaaaa&show_icons=true&theme=tokyonight&hide_border=true)
+![Jeremiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsmeEremiyaaaa&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsmeEremiyaaaa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeEremiyaaaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsmeEremiyaaaa&theme=tokyo-night&hide_border=true)
 
