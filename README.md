@@ -52,9 +52,11 @@ whether it's a new framework, a hardware project, or how to edit things.
 
 | Project | Description | Stack |
 |-----------|---------------|---------|
+| **[BansaRide](https://github.com/ItsmeEremiyaaaa/BansaRide)** | Offline-first ride and fare guide for Bansalan, with real road routes and ride alerts | React · Vite · Leaflet · Supabase · Capacitor |
+| **GABAY** | AR campus navigation app for SMCBI, our completed capstone *(project leader)* | Unity · C# · MultiSet SDK |
+| **[MindTrack](https://github.com/ItsmeEremiyaaaa/Mindtrack)** | Student wellness and guidance system with student and counselor portals | React · Vite · PHP · MySQL |
+| **[StudyQuest](https://github.com/ItsmeEremiyaaaa/StudyQuestTesting)** | Gamified quiz app with XP, streaks and leaderboards *(project leader)* | React Native · Expo · Firebase |
 | **GradeHub** | Student grade management system | Laravel · React · TypeScript |
-| **RecipesPOS** | POS system with product & transaction management | Java Swing |
-| **AR Campus Nav** | Augmented reality campus navigation app | Mobile · AR |
 | **SHORT FILM (HI, LIKE YOU)** | Filipino romcom short film *(directed by me)* | Editing and Scripts! |
 
 ---
@@ -85,8 +87,8 @@ class BsitStudent:
         self.name       = "Jeremiah"
         self.role       = "BSIT Student | Developer | Film Director"
         self.school     = "St. Mary's College of Bansalan"
-        self.stack      = ["Laravel", "React", "TypeScript", "Java", "PHP"]
-        self.currently  = "Building GradeHub"
+        self.stack      = ["React", "TypeScript", "Laravel", "PHP", "Unity"]
+        self.currently  = "Improving BansaRide"
         self.learning   = ["AR Development", "System Integration", "Computer Graphics"]
         self.fun_fact   = "I write code AND direct short films"
 
