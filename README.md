@@ -1,132 +1,70 @@
-<div align="center">
+<a href="https://itsmeeremiyaaaa.github.io/Website-Portfolio/">
+  <img src="assets/banner.svg" width="100%" alt="Jeremiah Escubido. BSIT student at St. Mary's College of Bansalan, building mobile, web and AR apps.">
+</a>
 
-# Hi there, I'm Jeremiah! 
+<p align="center">
+  <a href="https://itsmeeremiyaaaa.github.io/Website-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-e2553a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jeremiah-escubido/"><img src="https://img.shields.io/badge/LinkedIn-4a1826?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0009-0007-5341-8733"><img src="https://img.shields.io/badge/ORCID-4a1826?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.instagram.com/jeremi.ya/"><img src="https://img.shields.io/badge/Instagram-4a1826?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/Erimiya19"><img src="https://img.shields.io/badge/X-4a1826?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://itsmeeremiyaaaa.github.io/Website-Portfolio/assets/Escubido_Jeremiah_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-ffb49b?style=flat-square&labelColor=4a1826" alt="Resume PDF"></a>
+</p>
 
-Based in Bansalan, Philippines &nbsp;|&nbsp; Passionate about building useful things
+## About
 
-*BSIT Student | Developer | Programmer | Editor | Explorer*
+I'm a fourth-year BSIT student who likes taking an idea from a sketch to something people can actually install and use. Most of my work sits between mobile, web and AR, and I usually end up handling both the interface and the backend.
 
-Welcome to my GitHub! I'm a IT student who loves building web apps and tools from scratch.
-I enjoy working on both frontend and backend, and I'm always learning something new 
-whether it's a new framework, a hardware project, or how to edit things. 
+- **Now:** looking for an internship where I can grow with a real team
+- **Led:** the SITeS student society as president (2024–2025), and two app teams as project leader
+- **Published:** first-listed co-author of a study on ICT integration in teaching, in the *Asian Journal of Education and Social Studies* (2025)
+- **Outside code:** I write, edit and direct short films, like *Hi, Like You*
 
-</div>
+## Things I've built
 
----
+<table>
+  <tr>
+    <td width="50%"><a href="https://bansalanride.netlify.app/"><img src="assets/card-bansaride.svg" width="100%" alt="BansaRide"></a></td>
+    <td width="50%"><a href="https://drive.google.com/drive/folders/1UPTv_c1FwM8ssrSv6AWAYQaXkMfDeqtr"><img src="assets/card-gabay.svg" width="100%" alt="GABAY"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://bansalanride.netlify.app/">Live app</a> · <a href="https://github.com/ItsmeEremiyaaaa/BansaRide">Source</a></td>
+    <td align="center"><a href="https://drive.google.com/drive/folders/1UPTv_c1FwM8ssrSv6AWAYQaXkMfDeqtr">Project documents</a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://mindtrack.page.gd/"><img src="assets/card-mindtrack.svg" width="100%" alt="MindTrack"></a></td>
+    <td width="50%"><a href="https://studyquest-a547c.web.app/"><img src="assets/card-studyquest.svg" width="100%" alt="StudyQuest"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://mindtrack.page.gd/">Live site</a> · <a href="https://github.com/ItsmeEremiyaaaa/Mindtrack">Source</a></td>
+    <td align="center"><a href="https://studyquest-a547c.web.app/">Web version</a> · <a href="https://github.com/ItsmeEremiyaaaa/StudyQuestTesting">Source</a></td>
+  </tr>
+</table>
 
-### Technologies & Tools
+Also: **GradeHub**, a grade management system for registrar, faculty and students (Laravel, React, TypeScript, Inertia.js).
 
-<div align="center">
+## Toolbox
 
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/downloads/)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/download/)
-[![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/download)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://code.visualstudio.com/docs/languages/cpp)
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/downloads)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/download)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/docs)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/en/software)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/downloads)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/download)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/downloads/)
-[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/front/main/download/)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,html,css,php,laravel,mysql,supabase,firebase&perline=11" alt="TypeScript, JavaScript, React, Vite, HTML, CSS, PHP, Laravel, MySQL, Supabase, Firebase"><br>
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,java,cpp,arduino,git,github,vscode,figma,netlify&perline=11" alt="Unity, C#, Python, Java, C++, Arduino, Git, GitHub, VS Code, Figma, Netlify">
+</p>
 
-</div>
+## Activity
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ItsmeEremiyaaaa&background=4a1826&border=4a1826&stroke=6d2a3d&ring=e2553a&fire=ffb49b&currStreakNum=f6efe8&sideNums=f6efe8&currStreakLabel=ffb49b&sideLabels=dcbfc5&dates=b2909a&border_radius=16" width="100%" alt="Contribution streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsmeEremiyaaaa&bg_color=4a1826&color=dcbfc5&line=e2553a&point=ffb49b&area=true&area_color=e2553a&title_color=f6efe8&hide_border=true&radius=16&custom_title=Contributions%2C%20last%2031%20days" width="100%" alt="Contribution graph for the last 31 days">
+</p>
 
-### GitHub Trophies
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsmeEremiyaaaa/ItsmeEremiyaaaa/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ItsmeEremiyaaaa/ItsmeEremiyaaaa/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating my contribution grid">
+</picture>
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ItsmeEremiyaaaa&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|-----------|---------------|---------|
-| **[BansaRide](https://github.com/ItsmeEremiyaaaa/BansaRide)** | Offline-first ride and fare guide for Bansalan, with real road routes and ride alerts | React · Vite · Leaflet · Supabase · Capacitor |
-| **GABAY** | AR campus navigation app for SMCBI, our completed capstone *(project leader)* | Unity · C# · MultiSet SDK |
-| **[MindTrack](https://github.com/ItsmeEremiyaaaa/Mindtrack)** | Student wellness and guidance system with student and counselor portals | React · Vite · PHP · MySQL |
-| **[StudyQuest](https://github.com/ItsmeEremiyaaaa/StudyQuestTesting)** | Gamified quiz app with XP, streaks and leaderboards *(project leader)* | React Native · Expo · Firebase |
-| **GradeHub** | Student grade management system | Laravel · React · TypeScript |
-| **SHORT FILM (HI, LIKE YOU)** | Filipino romcom short film *(directed by me)* | Editing and Scripts! |
-
----
-
-### Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing new ideas.
-Feel free to reach out!
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeremi.ya/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erimiya19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-escubido/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsmeEremiyaaaa)
-
----
-
-### Fun Fact
-
-I once built a hardware gas detector with an Arduino at 2AM and it actually worked. 
-
-```python
-#!/usr/bin/env python3
-
-class BsitStudent:
-    def __init__(self):
-        self.name       = "Jeremiah"
-        self.role       = "BSIT Student | Developer | Film Director"
-        self.school     = "St. Mary's College of Bansalan"
-        self.stack      = ["React", "TypeScript", "Laravel", "PHP", "Unity"]
-        self.currently  = "Improving BansaRide"
-        self.learning   = ["AR Development", "System Integration", "Computer Graphics"]
-        self.fun_fact   = "I write code AND direct short films"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool.")
-
-me = BsitStudent()
-me.say_hi()
-```
-
----
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Jeremiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsmeEremiyaaaa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeEremiyaaaa&layout=compact&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsmeEremiyaaaa&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Currently in my coding arc*
-
----
-
-> *"The best error message is the one that never shows up."* — Thomas Fuchs
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=ItsmeEremiyaaaa&label=Profile+Views&color=0e75b6&style=flat)
-
-</div>
+<p align="center">
+  <sub>Bansalan, Davao del Sur, Philippines · <a href="https://itsmeeremiyaaaa.github.io/Website-Portfolio/">See more on my portfolio</a></sub><br>
+  <img src="https://komarev.com/ghpvc/?username=ItsmeEremiyaaaa&label=profile%20views&color=4a1826&style=flat-square" alt="Profile views">
+</p>
